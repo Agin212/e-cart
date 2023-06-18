@@ -1,0 +1,32 @@
+.banner{
+    margin-top: 130px;
+    display: flex;
+    justify-content: center;
+}
+
+.banner img{
+    width: 95%;
+    height: 480px;
+    border-radius: 15px;
+    
+}
+.shopnow-title{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.products{
+    margin-bottom: 80px;
+}
+@media (max-width: 426px) {
+    .product-price{
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    .banner img{
+        width: 95%;
+        height: 280px;
+        border-radius: 15px;
+        
+    }
+}

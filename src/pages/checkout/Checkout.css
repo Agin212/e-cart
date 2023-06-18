@@ -1,0 +1,12 @@
+
+
+
+form{
+    display: flex;
+    flex-direction: column;
+    width: 800px;
+    justify-content: space-between;
+}
+.checkout-page{
+    margin-top: 200px;
+}
